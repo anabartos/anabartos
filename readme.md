@@ -1,31 +1,47 @@
 # Hello 👋
 
-My name is Ana, I'm from Spain and I am a **Full Stack Developer** with a focus on **Front-End Development**.
+My name is Ana, I'm from Spain and I am Full Stack developer with a focus on front-end development.
 
 ## Skills 🛠
 
-### Front-End Development
-- **React**
-- **TypeScript**
-- **HTML5**
-- **CSS3**
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1 0 200px; min-width: 200px;">
+    <h4>Frontend Development</h4>
+    <ul>
+      <li>React</li>
+      <li>TypeScript</li>
+      <li>HTML5</li>
+      <li>CSS3</li>
+    </ul>
+  </div>
 
-### CSS Frameworks
-- **Tailwind CSS**
-- **Bootstrap**
+  <div style="flex: 1 0 200px; min-width: 200px;">
+    <h4>CSS Frameworks</h4>
+    <ul>
+      <li>Tailwind CSS</li>
+      <li>Bootstrap</li>
+    </ul>
+  </div>
 
-### Version Control
-- **Git**
-- **GitHub**
+  <div style="flex: 1 0 200px; min-width: 200px;">
+    <h4>Version Control</h4>
+    <ul>
+      <li>Git</li>
+      <li>GitHub</li>
+    </ul>
+  </div>
 
-### Development Tools
-- **Visual Studio Code**
-- **Webpack**
-- **npm**
+  <div style="flex: 1 0 200px; min-width: 200px;">
+    <h4>Development Tools</h4>
+    <ul>
+      <li>Visual Studio Code</li>
+      <li>Webpack</li>
+      <li>npm</li>
+    </ul>
+  </div>
+</div>
 
 ## Contact 📞
 
-- **GitHub**: [github.com/anabartos](https://github.com/anabartos) 🖥️
-- **LinkedIn**: [linkedin.com/in/anabartos](https://linkedin.com/in/anabartos) 💼
-
-Feel free to connect with me!
+* GitHub: [github.com/anabartos](https://github.com/anabartos) 🖥️
+* LinkedIn: [linkedin.com/in/anabartos](https://linkedin.com/in/anabartos) 💼
